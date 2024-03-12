@@ -1,0 +1,17 @@
+input text: The house is on fire!
+emoji translation: 🏠🔥
+
+input text: I'm so happy today!
+emoji translation: 🙂
+
+input text: The early bird catches the worm.
+emoji translation: 🐦📷🪱
+
+input text: Just had the best pizza ever!
+emoji translation: ⭐🍕🖼️
+
+input text: The dog is chasing the ball in the park.
+emoji translation: 🐕⚾🏞️
+
+input text: The flower is blooming beautifully in the garden.
+emoji translation: 💮🏡
